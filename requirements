@@ -1,0 +1,7 @@
+tkinter
+sounddevice
+scipy
+threading
+datetime
+time
+os
